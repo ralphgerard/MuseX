@@ -1,7 +1,7 @@
 <h1> Music Lyrics Website</h1>
 
 Name: Ralph Gerard Ramirez<br>
-Website URL: https://ralphgerard.github.io/MuseX/
+Website URL: https://ralphgerard.github.io/museX/
 
 <h2>Description</h2>
 
